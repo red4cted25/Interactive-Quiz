@@ -1,0 +1,19 @@
+@font-face {
+    font-family: WalkDaWalkOne;
+    src: url("WalkDaWalkOne.ttf");
+}
+body {
+    background-image: url("skul.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #1E0C36;
+}
+
+.end_quiz {
+    position: absolute;
+    left: 47rem;
+    bottom: 50px;
+    color: rgb(236, 215, 255);
+    font-size: x-large;
+    font-family: WalkDaWalkOne;
+}
